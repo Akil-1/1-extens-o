@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "opoder",
+    "permissions": ["activeTab", "scripting"],
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "action": {
+      "default_popup": "ess.html"
+    }
+  }
